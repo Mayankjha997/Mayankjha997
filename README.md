@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Anything XD :)
 - 🤔 I’m looking for help with Coding
 - 💬 Ask me about DSA
-- 📫 Connect with me - LinkedIn : @Mayank
+- 📫 Connect with me - LinkedIn : [LinkedIn : @Mayank](LinkedIn%20:%20@Mayank%20%28https://www.linkedin.com/in/mayank-jha-9276821a5/%29)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am going to become future engineer
