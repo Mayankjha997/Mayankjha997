@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Mayankjha997/Mayankjha997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+########################## Hola, I'm Mayank Jha👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Python, DSA
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on Anything XD :)
+- 🤔 I’m looking for help with Coding
+- 💬 Ask me about DSA
+- 📫 Connect with me - LinkedIn : @Mayank
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am going to become future engineer
