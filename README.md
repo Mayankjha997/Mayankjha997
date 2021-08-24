@@ -1,6 +1,6 @@
 
 
-########################## Hola, I'm Mayank Jha👋
+### Hola, I'm Mayank Jha👋
 
 
 - 🔭 I’m currently working on Python, DSA
