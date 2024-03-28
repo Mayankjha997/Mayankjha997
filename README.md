@@ -1,11 +1,12 @@
 Hi 👋 My name is Mayank Jha
 ===========================
 
-Python Developer
+Software Developer
 ----------------
 
-I am a student at Birla Institute of Technology, Mesra.
+Working as a Software Developer in CGI
 
+* 🎓  Graduated from BIT Mesra(2K23)
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jhamayank060@gmail.com](mailto:jhamayank060@gmail.com)
 * 🧠  I'm learning Machine learning
