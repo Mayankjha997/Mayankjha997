@@ -8,7 +8,7 @@ Working as a Software Developer in CGI
 
 * 🎓  Graduated from BIT Mesra(2K23)
 * 🌍  I'm based in India
-* ✉️  You can contact me at [jhamayank060@gmail.com](mailto:mayankjha997@gmail.com)
+* ✉️  You can contact me at [mayankjha997@gmail.com](mailto:mayankjha997@gmail.com)
 * 🧠  I'm learning Machine learning
 * 🤝  I'm open to collaborating on Interesting project
 
